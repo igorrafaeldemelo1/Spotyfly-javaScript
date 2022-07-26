@@ -1,0 +1,24 @@
+a:hover {
+    color: rgb(226, 226, 226);
+    background: rgb(49, 49, 49);
+    cursor: pointer;
+}
+
+li:hover {
+    color: rgb(226, 226, 226);
+    background: rgb(49, 49, 49);
+    cursor: pointer;
+}
+.fi:hover{
+    color: rgb(226, 226, 226);
+    background: rgb(49, 49, 49);
+    cursor: pointer;
+
+}
+
+.play:hover {
+    color: #960000;
+}
+.playlisty{
+    display: block;
+}
